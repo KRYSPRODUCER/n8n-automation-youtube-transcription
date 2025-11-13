@@ -29,5 +29,3 @@ This workflow automates YouTube video transcription using **n8n**, **OpenAI Whis
 2. Add your OpenAI and Google API credentials.
 3. Adjust Google Drive folder and file names.
 4. Run the workflow!
-
-👨‍💻 **Created by:** Mark Rellama  
